@@ -1,0 +1,12 @@
+.pokemons-selected {
+  display: flex;
+
+  border: 1px solid #ddd;
+  border-radius: 0.25rem;
+  padding: 0.5rem;
+}
+
+.pokemons-selected-minified {
+  display: flex;
+  padding: 0.5rem;
+}

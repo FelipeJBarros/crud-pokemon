@@ -1,0 +1,24 @@
+.botton {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  background-color: #fff;
+  border: 1px solid #eee;
+  border-radius: 0.5rem;
+
+  margin: 0 0.5rem;
+}
+
+.botton-minified {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.botton-minified img {
+  width: 80%;
+  height: auto;
+}
